@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+admin-ui/node_modules/
+admin-ui/dist/
+api/static/
+.pytest_cache/
